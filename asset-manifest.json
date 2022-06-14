@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Covid-Tracker-App/static/css/main.013b5ad0.css",
-    "main.js": "/Covid-Tracker-App/static/js/main.b209b0ec.js",
+    "main.js": "/Covid-Tracker-App/static/js/main.cf759310.js",
     "index.html": "/Covid-Tracker-App/index.html",
     "main.013b5ad0.css.map": "/Covid-Tracker-App/static/css/main.013b5ad0.css.map",
-    "main.b209b0ec.js.map": "/Covid-Tracker-App/static/js/main.b209b0ec.js.map"
+    "main.cf759310.js.map": "/Covid-Tracker-App/static/js/main.cf759310.js.map"
   },
   "entrypoints": [
     "static/css/main.013b5ad0.css",
-    "static/js/main.b209b0ec.js"
+    "static/js/main.cf759310.js"
   ]
 }
